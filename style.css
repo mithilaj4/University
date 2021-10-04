@@ -9,7 +9,7 @@
     height: 100vh;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(image/background.jpg);
+    background-image: url(image/background.jpg);
 }
 nav{
     padding: 2% 6%;
