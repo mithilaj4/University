@@ -9,7 +9,7 @@
     height: 100vh;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(image/background.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(image/school.jpg);
 }
 nav{
     padding: 2% 6%;
@@ -18,7 +18,7 @@ nav{
     display: flex;
 }
 nav img{
-    width: 150px;
+    width: 60px;
 }
 nav ul{
     list-style: none;
@@ -171,7 +171,7 @@ nav ul li {
 }
 
 .campus-col{
-    flex-basis: 30%;
+    flex-basis: 40%;
     margin-bottom:30px;
     position: relative;
     overflow: hidden;
@@ -195,7 +195,7 @@ nav ul li {
 }
 
 .layer:hover{
-    background: #f44336ad;
+    background: rgba(0, 0, 0, 0.411);
 }
 
 .layer h3{
