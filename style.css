@@ -105,6 +105,7 @@ nav ul li {
     text-align: center;
     align-items: center;
     margin: auto;
+    
 }
 .courses h1{
     font-size: 30px;
@@ -132,6 +133,7 @@ nav ul li {
     text-align: center;
     border-radius: 10%;
     transition: 0.5s;
+    height: 230px;
   
 }
 .course-col p{
@@ -171,7 +173,7 @@ nav ul li {
 }
 
 .campus-col{
-    flex-basis: 40%;
+    flex-basis: 30%;
     margin-bottom:30px;
     position: relative;
     overflow: hidden;
