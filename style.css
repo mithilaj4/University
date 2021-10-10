@@ -126,7 +126,9 @@ nav ul li {
     width: 80%;
     margin: auto;
     flex-basis: 31%;
-    background:#fff3f3;
+
+    background: #fff3f3;
+
     padding:18px 32px;
     margin-bottom: 5%;
     box-sizing: border-box;
